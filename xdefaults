@@ -1,6 +1,8 @@
 XTerm*loginShell:true
 XTerm*ScrollBar: false
 Xterm*selectToClipboard: true
+xterm*faceName: Monospace
+xterm*faceSize: 14
 *background: rgb:32/30/2f
 *foreground: rgb:eb/db/b2
 *color0: rgb:28/28/28
